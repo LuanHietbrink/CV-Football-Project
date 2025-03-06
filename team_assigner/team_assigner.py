@@ -163,6 +163,7 @@ class TeamAssigner:
         # Adjust to use team IDs 1 and 2 (instead of 0 and 1)
         team_id += 1
 
+
         # Cache the team assignment for future use
         self.player_team[player_id] = team_id
 
