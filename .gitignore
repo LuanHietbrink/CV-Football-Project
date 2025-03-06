@@ -1,0 +1,5 @@
+/.alpackages
+/output_videos
+/input_videos
+/runs
+*.pt
